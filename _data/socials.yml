@@ -7,9 +7,8 @@ scholar_userid: t-5Zh1AAAAAJ # your Google Scholar ID
 orcid_id: 0000-0003-3333-4704 # your ORCID ID
 research_gate_profile: Gabriel-Levesque-2 # your profile on ResearchGate
 linkedin_username: gabriel-lévesque # your LinkedIn user name
-github_username:  GVLevesque
+github_username: GVLevesque
 rss_icon: true # comment this line to hide the RSS icon
-
 
 #inspirehep_id: 1010907 # Inspire HEP author ID
 # acm_id: # your dl.acm.org/profile/id
@@ -35,7 +34,6 @@ rss_icon: true # comment this line to hide the RSS icon
 # pinterest_id: # your pinterest id
 # publons_id: # your ID on Publons
 # quora_username: # your Quora username
-
 
 # scopus_id: # your profile on Scopus
 # semanticscholar_id: # your Semantic Scholar ID
