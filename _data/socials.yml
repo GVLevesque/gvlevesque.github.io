@@ -8,7 +8,7 @@ orcid_id: 0000-0003-3333-4704 # your ORCID ID
 research_gate_profile: Gabriel-Levesque-2 # your profile on ResearchGate
 linkedin_username: gabriel-lévesque # your LinkedIn user name
 github_username: GVLevesque
-rss_icon: true # comment this line to hide the RSS icon
+rss_icon: false # comment this line to hide the RSS icon
 
 #inspirehep_id: 1010907 # Inspire HEP author ID
 # acm_id: # your dl.acm.org/profile/id
@@ -50,7 +50,7 @@ rss_icon: true # comment this line to hide the RSS icon
 # x_username: # your X handle
 # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
-custom_social: # can be any name here other than the ones already defined above
-  logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
-  title: Custom Social
-  url: https://www.alberteinstein.com/
+#custom_social: # can be any name here other than the ones already defined above
+ # logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
+ # title: Custom Social
+ # url: https://www.alberteinstein.com/
