@@ -25,6 +25,9 @@ end
     gem 'classifier-reborn'  # used for content categorization during the build
 end
 
+    gem 'classifier-reborn'  # used for content categorization during the build
+end
+
 # Gems for development or external data fetching (outside :jekyll_plugins)
 group :other_plugins do
     gem 'css_parser'
