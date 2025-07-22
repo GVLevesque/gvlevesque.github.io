@@ -2,10 +2,12 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: I have had the pleasure to serve as an instructor at three universities in the past few years. Here's an overview of the courses I taught.
+description:
 nav: true
 nav_order: 6
 ---
+
+I have had the pleasure to serve as an instructor at three universities in the past few years. Here's an overview of the courses I taught.
 
 <br>
 
@@ -17,7 +19,7 @@ nav_order: 6
 Department of Political Science, Université du Québec à Montréal<br>
 
 <p style="color: grey;"><i>15 M.A. students in political science</i></p>
-<a href="https://github.com/GVLevesque/assets/pdf/POL8007-31_H25_Levesque.pdf" target="_blank">View syllabus (PDF)</a><br>
+<a href="https://github.com/GVLevesque/gvlevesque.github.io/tree/d63b4c7237d5f39e41a28c20a212ebd7995b007b/assets/pdf/POL8007-31_H25_Levesque.pdf" target="_blank">View syllabus (PDF)</a><br>
 
 <br>
 
@@ -25,7 +27,7 @@ Department of Political Science, Université du Québec à Montréal<br>
 Department of Sociology, McGill University<br>
 
 <p style="color: grey;"><i>100 undergraduate students in sociology, psychology, and biological sciences</i></p>
-<a href="https://github.com/GVLevesque/assets/pdf/SOC225_H25_Levesque.pdf" target="_blank">View syllabus (PDF)</a><br>
+<a href="assets/pdf/SOC225_H25_Levesque.pdf" target="_blank">View syllabus (PDF)</a><br>
 
 <br>
 
@@ -72,6 +74,7 @@ Department of Political Science, Université du Québec à Montréal<br>
 
 <p style="color: grey;"><i>173 undergraduate students in political science and public administration</i></p>
 
+<br>
 <hr>
 <b>TEACHING ASSISTANSHIPS</b>
 <hr>
