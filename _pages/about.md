@@ -33,5 +33,5 @@ If and when I’m not doing research, you can find me in a café, at a museum, o
 
 Happy to hear from you at <a href="mailto:gabriel.levesque2@mail.mcgill.ca">gabriel.levesque2@mail.mcgill.ca</a>.
 
-<hr>
-<hr>
+<br>
+<br>
