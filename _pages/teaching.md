@@ -19,7 +19,7 @@ I have had the pleasure to serve as an instructor at three universities in the p
 Department of Political Science, Université du Québec à Montréal<br>
 
 <p style="color: grey;"><i>15 M.A. students in political science</i></p>
-<a href="https://github.com/GVLevesque/gvlevesque.github.io/tree/d63b4c7237d5f39e41a28c20a212ebd7995b007b/assets/pdf/POL8007-31_H25_Levesque.pdf" target="_blank">View syllabus (PDF)</a><br>
+<a href="https://github.com/GVLevesque/gvlevesque.github.io/raw/d63b4c7237d5f39e41a28c20a212ebd7995b007b/assets/pdf/POL8007-31_H25_Levesque.pdf" target="_blank">View syllabus (PDF)</a><br>
 
 <br>
 
