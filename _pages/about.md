@@ -8,7 +8,6 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-
 ---
 
 Welcome to my webpage! My name is Gabriel and I am a Ph.D. Candidate in Sociology and Tomlinson Doctoral Fellow at McGill University.
