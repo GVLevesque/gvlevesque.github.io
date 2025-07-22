@@ -6,6 +6,7 @@ description: I have had the pleasure to serve as an instructor at three universi
 nav: true
 nav_order: 6
 ---
+
 <br>
 
 <hr>
@@ -15,6 +16,7 @@ nav_order: 6
 POL 8007 – Graduate Research Methods in Political Science (<i>with Maude Benoit</i>)<br>
 Department of Political Science, Université du Québec à Montréal<br>
 15 M.A. students in political science
+
 <p style="color: grey;"><i>Overview of research design, data collection, and the major quantitative and qualitative tools in the social sciences.</i></p>
 
 <br>
@@ -57,4 +59,3 @@ Department of Sociology, McGill University
 <hr>
 POL1502 – Introduction to Public Administration and Public Policy, Université du Québec à Montréal (<i>replacement for leave</i>)
 Department of Political Science, Université du Québec à Montréal
-
