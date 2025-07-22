@@ -13,49 +13,59 @@ nav_order: 6
 <b>WINTER 2025</b>
 <hr>
 
-POL 8007 – Graduate Research Methods in Political Science (<i>with Maude Benoit</i>)<br>
+<b>POL 8007</b> – Graduate Research Methods in Political Science (with Maude Benoit)<br>
 Department of Political Science, Université du Québec à Montréal<br>
-15 M.A. students in political science
-
-<p style="color: grey;"><i>Overview of research design, data collection, and the major quantitative and qualitative tools in the social sciences.</i></p>
+<p style="color: grey;"><i>15 M.A. students in political science.</i></p>
 
 <br>
-<br>
 
-POL 1850 – Quantitative methods<br>
-Department of Political Science, Université du Québec à Montréal<br>
-39 undergraduate students in political science, sociology, and administrative sciences<br>
-<i>Review of descriptive statistics, introduction to regression analysis and introduction to R.</i>
-
-<br>
-<br>
-
-SOCI 225 – Medicine and Health in Modern Society<br>
+<b>SOCI 225</b> – Medicine and Health in Modern Society<br>
 Department of Sociology, McGill University<br>
-100 undegraduate students in sociology, psychology, and biological sciences<br>
-<i>Introduction to key concepts in the sociology of health and how they're used to understand socio-medical problems. Lectures organized around three main themes: 1) forces that shape the social construction of health, 2) institutions that govern health problems and inequalities, 3) medical controversies and social conflict.</i>
+<p style="color: grey;"><i>100 undegraduate students in sociology, psychology, and biological sciences.</i></p>
 
 <br>
+
+<b>POL 1850</b> – Quantitative Methods<br>
+Department of Political Science, Université du Québec à Montréal<br>
+<p style="color: grey;"><i>39 undergraduate students in political science, sociology, and administrative sciences.</i></p>
 
 <hr>
 <b>FALL 2024</b>
 <hr>
-SOC 307 – Sociology of Health, Bishop’s University
+
+<b>SOC 307</b> – Sociology of Health<br>
+Department of Sociology, Bishop’s University<br>
+<p style="color: grey;"><i>55 undegraduate students in sociology, sports studies,  psychology, and biological sciences.</i></p>
 
 <br>
-POL1502 – Introduction to Public Administration and Public Policy, Université du Québec à Montréal (with Maude Benoit)
-Department of Political Science, Université du Québec à Montréal
 
-<br>
+<b>POL 1502</b> – Introduction to Public Administration and Public Policy, Université du Québec à Montréal (with Maude Benoit)<br>
+Department of Political Science, Université du Québec à Montréal<br>
+<p style="color: grey;"><i>146 undegraduate students in political science and public administration.</i></p>
 
 <hr>
 <b>SUMMER 2024</b>
 <hr>
-SOCI 211 – Sociological Inquiry
-Department of Sociology, McGill University
+
+<b>SOCI 211</b> – Sociological Inquiry<br>
+Department of Sociology, McGill University<br>
+<p style="color: grey;"><i>21 undegraduate students in sociology and psychology.</i></p>
 
 <hr>
 <b>FALL 2023</b>
 <hr>
-POL1502 – Introduction to Public Administration and Public Policy, Université du Québec à Montréal (<i>replacement for leave</i>)
-Department of Political Science, Université du Québec à Montréal
+
+<b>POL 1502</b> – Introduction to Public Administration and Public Policy, Université du Québec à Montréal (replacement for leave)<br>
+Department of Political Science, Université du Québec à Montréal<br>
+<p style="color: grey;"><i>173 undegraduate students in political science and public administration.</i></p>
+
+<hr>
+<b>TEACHING ASSISTANSHIPS</b>
+<hr>
+
+SOCI 326 – Political Sociology, McGill University (Matthew Lange), Fall 2023<br>
+SOCI 325 – Sociology of Science, McGill University (Peter McMahan), Fall 2022<br>		
+SOCI 312 – Sociology of Work and Industry, McGill University (Barry Eidlin), Fall 2021<br>		
+POL 4142 – United States Political System, UQAM (Frédérick Gagnon), Fall 2020<br>		
+POL 1502 – Introduction to Public Administration and Public Policy (Maude Benoit), Fall 2020 & Winter 2019
+
