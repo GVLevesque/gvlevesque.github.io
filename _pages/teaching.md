@@ -27,7 +27,7 @@ Department of Political Science, Université du Québec à Montréal<br>
 Department of Sociology, McGill University<br>
 
 <p style="color: grey;"><i>100 undergraduate students in sociology, psychology, and biological sciences</i></p>
-<a href="assets/pdf/SOC225_H25_Levesque.pdf" target="_blank">View syllabus (PDF)</a><br>
+<a href="https://raw.githubusercontent.com/GVLevesque/gvlevesque.github.io/d63b4c7237d5f39e41a28c20a212ebd7995b007b/assets/pdf/SOC225_H25_Levesque.pdf" target="_blank">View syllabus (PDF)</a>
 
 <br>
 
@@ -35,7 +35,7 @@ Department of Sociology, McGill University<br>
 Department of Political Science, Université du Québec à Montréal<br>
 
 <p style="color: grey;"><i>39 undergraduate students in political science, sociology, and administrative sciences</i></p>
-<a href="https://github.com/GVLevesque/assets/pdf/POL1850-20_H25_Levesque.pdf" target="_blank">View syllabus (PDF)</a><br>
+<a href="https://raw.githubusercontent.com/GVLevesque/gvlevesque.github.io/d63b4c7237d5f39e41a28c20a212ebd7995b007b/assets/pdf/POL1850-20_H25_Levesque.pdf" target="_blank">View syllabus (PDF)</a>
 
 <hr>
 <b>FALL 2024</b>
@@ -45,7 +45,7 @@ Department of Political Science, Université du Québec à Montréal<br>
 Department of Sociology, Bishop’s University<br>
 
 <p style="color: grey;"><i>55 undergraduate students in sociology, sports studies,  psychology, and biological sciences</i></p>
-<a href="https://github.com/GVLevesque/assets/pdf/SOC307_F24_Levesque.pdf" target="_blank">View syllabus (PDF)</a><br>
+<a href="https://raw.githubusercontent.com/GVLevesque/gvlevesque.github.io/d63b4c7237d5f39e41a28c20a212ebd7995b007b/assets/pdf/SOC307_F24_Levesque.pdf" target="_blank">View syllabus (PDF)</a>
 
 <br>
 
@@ -53,7 +53,7 @@ Department of Sociology, Bishop’s University<br>
 Department of Political Science, Université du Québec à Montréal<br>
 
 <p style="color: grey;"><i>146 undergraduate students in political science and public administration</i></p>
-<a href="https://github.com/GVLevesque/assets/pdf/POL1502-10_A2024_BenoitLevesque.pdf" target="_blank">View syllabus (PDF)</a><br>
+<a href="https://raw.githubusercontent.com/GVLevesque/gvlevesque.github.io/d63b4c7237d5f39e41a28c20a212ebd7995b007b/assets/pdf/POL1502-10_A2024_BenoitLevesque.pdf" target="_blank">View syllabus (PDF)</a>
 
 <hr>
 <b>SUMMER 2024</b>
@@ -63,7 +63,7 @@ Department of Political Science, Université du Québec à Montréal<br>
 Department of Sociology, McGill University<br>
 
 <p style="color: grey;"><i>21 undergraduate students in sociology and psychology</i></p>
-<a href="https://github.com/GVLevesque/assets/pdf/SOCI 211_S24_Levesque.pdf" target="_blank">View syllabus (PDF)</a><br>
+<a href="https://raw.githubusercontent.com/GVLevesque/gvlevesque.github.io/d63b4c7237d5f39e41a28c20a212ebd7995b007b/assets/pdf/SOCI 211_S24_Levesque.pdf" target="_blank">View syllabus (PDF)</a>
 
 <hr>
 <b>FALL 2023</b>
