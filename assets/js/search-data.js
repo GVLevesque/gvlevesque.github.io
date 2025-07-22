@@ -31,7 +31,7 @@ ninja.data = [{
             window.location.href = "/cv/";
           },
         },{id: "nav-teaching",
-          title: "Teaching",
+          title: "teaching",
           description: "I have had the pleasure to serve as an instructor at three universities in the past few years. Here&#39;s an overview of the courses I taught.",
           section: "Navigation",
           handler: () => {
