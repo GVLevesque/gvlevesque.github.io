@@ -23,8 +23,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Welcome to my webpage! My name is Gabriel and I am a Ph.D. Candidate in Sociology and Tomlinson Doctoral Fellow at McGill University. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I study regulatory power, the politics of science and expertise, and the social construction of risk. I use mixed methods to answer questions that often lead me to comparative-historical analysis. In my dissertation, titled <i>Structures of Latency: The Protraction of Regulatory Controversies over Toxic Substances</i>, I investigate regulatory inertia and change with a substantive focus on environmental and occupational exposures to toxics in Canada and the U.S. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research has appeared in <i>Theory and Social Inquiry</i>, <i>Public Understanding of Science</i> and <i>Administration & Society</i>, among other venues.
+
+If and when I’m not doing research, you can find me in a café, at a museum, or on a basketball court.
+
+Happy to hear from you at <a href="mailto:gabriel.levesque2@mail.mcgill.ca">gabriel.levesque2@mail.mcgill.ca</a>.
