@@ -3,7 +3,6 @@ layout: page
 title: Structures of Latency: The Protraction of Regulatory Controversies over Toxic Substances
 img: assets/img/helmetsdown2.jp2
 importance: 2
-category:
 ---
 
 ### 1) Network Interdependence and the Regulation of Toxic Substances
