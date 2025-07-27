@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: gvl_photo1.JPEG
   image_circular: false # crops the image to make it circular
 
 social: true
