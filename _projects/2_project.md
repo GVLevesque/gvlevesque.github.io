@@ -5,85 +5,78 @@ img: assets/img/helmetsdown2.jpg
 importance: 2
 ---
 
-### 1) Network Interdependence and the Regulation of Toxic Substances
-
-<b>Status</b> : Revise and resubmit
-
 <div style="text-align: justify;">
-<b>Abstract</b><br>
-How do corporations influence their regulatory environment? Existing answers to this question overwhelmingly focus on outcomes. Yet, the structural pathways to these outcomes are often ill-defined. I ask how the relationship between corporate and state actors is structured and how it is patterned over time. I outline an approach to regulatory networks that emphasizes interdependence between corporate and state actors. Using Toxic Docs, a novel database of millions of previously classified industry documents, I build networks that span eight decades for the cases of lead and silica. I measure network interdependence and model its evolution at critical moments of regulatory trajectories. Analyses reveal that ties between corporate and state actors grow over time, that ties are the strongest with bureaucratic implementation bodies, and that regulatory changes are primarily a cause, not a consequence, of these ties. Corporate-state ties are thus not primarily characterized by punctuated interference, but by long-term interdependence.
-</div><br>
-<b>Keywords</b>: regulations, social networks, interest groups, elites, power, risk<br>
+<b><i>Structures of Latency</i> is the dissertation I currently am working on at McGill University, under the joint supervision of Barry Eidlin and Axel van den Berg. Here is an overview of the project.</b>
+</div>
 
 <hr>
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
+<div style="text-align: right; text-align-last: justify; font-size: 0.8em; margin-bottom: 20px;">
+  <blockquote>
+There is still very limited awareness of the nature of the threat. This is an era of specialists, each of whom sees his own problem and is unaware of or intolerant of the larger frame into which it fits. It is also an era dominated by industry, in which the right to make a dollar at whatever cost is seldom challenged. When the public protests, confronted with some obvious evidence of damaging results of pesticide applications, it is fed little tranquilizing pills of half truth.<br>
+—Rachel Carson, Silent Spring, 1963.<sup>1</sup> 
+  </blockquote>
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+<div style="text-align: justify;">
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+<p>In recent decades, the sources and types of toxic risks have grown tremendously.<sup>2</sup> The regulation of these risks at work and in the environment has become a significant concern for exposed communities and states. The multi-factorial compounding of these exposures (Brown 2007) and the accumulation of toxic waste from past contamination (Elliott and Frickel 2015; Boudia et al. 2022) contributes to blurring the ever-shrinking line between the social and natural worlds. In the face of increasing uncertainty about risks, their regulation has become more complex,<sup>3</sup> with implications we seldom are able to foresee.</p>
+    <p>As proponents of the “risk society” thesis note, the number, extent, and intricacy of risks has consistently increased throughout modernity (Beck 1992; Freudenburg and Pastor 1992). Like in many other regulatory areas, then, state responses to toxic risks have greatly expanded over the past eight decades. Toxic substance regulations is one of the most transversal type of interventions associated with the “new social regulations” that emerged in the postwar era (Harris and Milkis 1996; Wilson 1980; Boudia and Jas 2014), as it intersects with many other prominent concerns like health, labor, consumer rights, land, and energy. In Canada and the U.S., this new regulatory area was a response to community activism in the 1950s and 1960s, most notably from the civil rights movement and the nascent environmental movement (O’Connor 2015; Sellers 2003; Taylor 2009).</p> 
+    <p>Yet, this concern is all but new. Grappling with the risks of industrial production has been a central social problem since the early stages of capitalism (Engels 1993; Polanyi 2001). Public and private organizations have sought early on to limit its negative externalities or, to speak in Polanyian terms, to intervene in the regulation of “fictitious commodities” like labor and land (Polanyi 2001, ch. 6 and 11). Areas like the mitigation of toxic risks have thus been key impulses for the development of proto-welfare provisions by states, employers and insurers in the mid- to late-19th century (Anderson 2021; Corn 1989; Bale 1990; Jasanoff 1990a). Hence, while there is an innovative aspect to the particular type of social regulations that emerged in the postwar era, namely in their breadth and ambition, there is nothing “new” about the type of problems they sought to address.</p>
+    <p>The regulation of externalities of polluting industries has come as a necessary response to the dislocation of social fabric they otherwise produce (Malin 2015, 24–27). Of those externalities, health risks are especially salient, and often prompt exposed communities to pressure corporations, local and national political institutions as well as the scientific community to better mitigate them (Brown 2007; Shriver, Cable, and Kennedy 2008; Allen 2018). As highlighted by Sellers (1997), rising concerns over environmental exposures in the postwar era was itself but an extension of much earlier concerns with industrial hygiene. It builds on the same key challenges—the long-term effects of air, water and soil contamination on human health—and draws on similar models of dose-response relationships. In thinking about these challenges from a scientific or regulatory perspective, occupational and environmental health are often lumped together. In practice, too, industrial pollutions often have simultaneous effects on workers and neighboring communities. Throughout the 20th century and to this day, then, there is meaningful continuity in the social challenges posed by toxic risks and in the underlying conditions that make them so prevalent. This offers a valuable opportunity to understand the long-term interplay between regulatory change and inertia.</p> 
+    <p>In this dissertation, I investigate regulatory controversies with a substantive focus on toxic exposures at work and in the environment. In the medical realm, many occupational and environmental ailments are categorized as having long latency periods. In other words, the elapsed time between the initial exposure and its ensuing detrimental outcomes is often significant—sometimes years, and not uncommonly decades. These long latency periods have stark implications for how we prevent and treat those ailments. In the social realm, a concurring, oft understated, and puzzling problem of latency arises. There is often a large temporal gap between the initial discovery of toxic hazards and their proper regulation. In the regulatory space, problems are routinely addressed long after first being noted. Meanwhile, toxic exposures often bear significant risks and can lead to severe illnesses or even death. In societies where bodily integrity is viewed as an incontrovertible right, they should draw major concern from exposed populations, the general public and political elites alike.</p> 
+    <p>But they often did not, and appropriate regulatory action was often stalled for decades. Instances of this problem are plenty. U.S. hospitals have held statistics on lead poisoning since the late 19th century (Sellers 1997, 17), and federal agencies have documented them in industrial settings since the 1910s (Heifetz 1989; Sellers 1997, 70–105). In 1914, a thorough report from Alice Hamilton of the Bureau of Labor Statistics made clear that problems of lead contamination and poisoning in industrial settings needed to be addressed.<sup>4</sup> This report sparked important conversations in the following years, including a Surgeon General conference on lead hazards in 1924 (Markowitz and Rosner 2013, 109). Yet, it was not until 1957 that a lead standard was published by the American Conference of Governmental Industrial Hygienists (ACGIH),<sup>5</sup> and not until 1970 that airborne exposure to lead was regulated at the federal level. Struggles over lead exposure have continued since, most infamously in cases of community-wide water contamination in Washington, D.C. in the early 2000s and Flint, Michigan in the 2010s (Pauli 2019; Markowitz and Rosner 2013). In 2024, 4,500 children in Wisconsin tested positive for lead poisoning, which led to the forced closure of several public schools.<sup>6</sup> More than a century after the Surgeon General conference first noted the extent of this problem, then, it remains inadequately contained.</p>
+    <p>Similarly, medical accounts of respiratory problems in “dusty” trades like coal, asbestos, silica, or cotton emerged in the early 20th century (Corn 1992). By the 1930s, industrial hygienists had a relatively good understanding of the severity of these problems. From the 1950s, several large-scale epidemiological studies showed that dust exposures induced chronic conditions and sometimes life-threatening diseases (McCulloch and Tweedale 2008; Rosner and Markowitz 2006; Corn 1992; Derickson 1998). In response to rising concerns, a first wave of ground-breaking but often inadequate regulations were enacted in the early 1970s in Canada and the U.S. In many cases like coal and silica, major segments of the workforce are still affected by respiratory disease today, and regulatory enforcement has often been weakened, not strengthened (Almberg et al. 2018; Bodenhamer 2017; R. A. C. Cohen 2010; Levine 2016).</p>
+    <p>Why are such temporal gaps between our initial knowledge of these problems and regulatory action so frequent and significant? What allows for toxic substances controversies to be protracted? In this dissertation, I contribute to solving this puzzle through case studies from Canada and the United States. Based on extant scholarship, we should expect scientific and technical uncertainty, the production of ignorance by corporations, bureaucratic inertia and underwhelming state capacity, or weak social mobilization to play a role. These factors are indeed all important to understand the unfolding of controversies over toxic substances. But what is lacking in existing accounts is comparative insight that let us distinguish between those factors which are consistently found across cases and time and those, which I argue are more analytically valuable, that set up periods of stability, enable disruption, and make and break actor coalitions. In an effort to shed light on the latter, I focus on structural mechanisms—those that pertain to relationship patterns between actors and their underlying power structure—that inhibit regulatory change.</p>
+    <p>I explore mechanisms that order patterns of corporate interference in science (Chapter 2), enable corporate power in the regulatory sphere (Chapter 3), promote invisibility of regulatory problems (Chapter 4), and sustain power asymmetries predicated on knowledge (Chapter 5). I show that the protraction of toxic substance controversies is the result of 1) preemptive corporate interference in the scientific process, 2) long-term interdependence between the regulator and the regulated, 3) structurally determined dynamics of risk invisibilization, and 4) the demobilizing effects of knowledge-based participatory processes. One overarching finding is that the crucial phase of regulatory controversies occurs not prior nor during the development of regulatory frameworks, but in its aftermath.</p> 
 </div>
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
+### Notes
+<div style="text-align: justify;">
+<sup>1</sup> Boston: Mariner Books, p 13.<br>
+<sup>2</sup> To the general public, toxic substances (or toxics) are synonym with chemicals, and often associated with carcinogenicity. In this dissertation, I refer to toxic substances in their broader accepted meaning. This includes chemical agents (e.g., metalloids like mercury, lead or arsenic; plastics like polychlorinated vinyl, PCBs; benzene, etc.), but also physical ones (e.g., various types of mineral and non-mineral dust, like asbestos, silica, cotton, or coal). These substances can be carcinogenic, but can also harm in other ways, such as poisoning (e.g., lead), respiratory diseases (e.g., coal, silica, cotton) or a combination of hazards. Although regulating chemical and physical toxics involve different types of expertise and sometimes require different enforcement mechanisms, they are usually regulated by the same agencies and the publics of those regulations face similar challenges.<br>
+<sup>3</sup> For instance, individuals are often subjected to multiple exposures at once in a given environmental settings. If some of these substances have similar consequences on human health, and that the exposed population is always co-concurrently exposed, it is difficult to definitely isolate individual effects and thus identify which exposures should be the priority for regulators. Moreover, as our knowledge of toxics grows, many of our most pressing regulatory problems involve less visible and more pernicious risks. For example, what is usually referred to as per- and polyfluoroalkyl substances (PFASs) is actually an umbrella term for thousands of similar yet differentiated toxics (Richter, Cordner, and Brown 2021, 642), each of which presumably interacts with the human body in slightly different ways. Regulating these “forever chemicals” is thus an extremely tedious task.<br>
+<sup>4</sup> Hamilton, Alice. 1914. “Lead Poisoning in the Smelting and Refining of Lead,” Bureau of Labor Statistics, Department of Labor, United States, https://archive.org/details/leadpoisoningins00hami/mode/2up. <br>
+<sup>5</sup> The American Conference of Governmental Industrial Hygienists (ACGIH) is a major proponent of industrial health standards with widely recognized expertise in the U.S. and elsewhere. Often, its published standards predate those of state agencies and are thus highly influential in periods of regulatory development. Contrarily to popular belief, the ACGIH is a private organization, and has been shown to be quite responsive to industrial interests (Castleman and Ziem 1994).<br>
+<sup>6</sup> “Lead poisoning in Milwaukee Public Schools: What to know and how to keep your kids safe,” Wisconsin Public Radio, April 24th 2025, https://www.wpr.org/news/lead-poisoning-milwaukee-public-schools-what-to-know-keep-children-safe.<br>
 </div>
-```
 
-{% endraw %}
+### References
+<div style="text-align: justify; text-indent: -30px;">
+<p>Allen, Barbara L. 2018. “Strongly Participatory Science and Knowledge Justice in an Environmentally Contested Region.” Science, Technology, & Human Values 43(6):947–71.</p>
+<p>Almberg, Kirsten S., Cara N. Halldin, David J. Blackley, A. Scott Laney, Eileen Storey, Cecile S. Rose, Leonard H. T. Go, and Robert A. Cohen. 2018. “Progressive Massive Fibrosis Resurgence Identified in U.S. Coal Miners Filing for Black Lung Benefits, 1970–2016.” Annals of the American Thoracic Society 15(12):1420–26.</p>
+<p>Anderson, Elisabeth. 2021. Agents of Reform. Child Labor and the Origins of the Welfare State. Princeton, NJ: Princeton University Press.</p>
+<p>Bale, Anthony. 1990. “The American Compensation Phenomenon.” International Journal of Health Service 20(2):253–75.</p>
+<p>Beck, Ulrich. 1992. Risk Society. Towards a New Modernity. London: SAGE Publications Ltd.</p>
+<p>Bodenhamer, Aysha Allison. 2017. “The Resurgence of Black Lung: A Critical Examination of Environmental Illness in Central Appalachia.” North Carolina State University, Raleigh, North Carolina.</p>
+<p>Boudia, Soraya, Angela N. H. Creager, Scott Frickel, Emmanuel Henry, Nathalie Jas, Carsten Reinhart, and Jody A. Roberts. 2022. Residues. Thinking through Chemical Environments. New Brunswick: Rutgers University Press.</p>
+<p>Boudia, Soraya, and Nathalie Jas. 2014. “Introducton. Science and Politics in a Toxic World.” Pp. 1–24 in Toxicants, Health and Regulation since 1945, edited by S. Boudia and N. Jas. London & New York: Routledge.</p>
+<p>Brown, Phil. 2007. Toxic Exposures. Contested Illnesses and the Environmental Health Movement. New York: Columbia University Press.</p>
+<p>Castleman, Barry I., and Grace E. Ziem. 1994. “American Conference of Governmental Industrial Hygienists: Low Threshold of Credibility.” American Journal of Industrial Medicine 26(1):133–43.</p>
+<p>Cohen, R. A. C. 2010. “Is the Increasing Prevalence and Severity of Coal Workers’ Pneumoconiosis in the United States Due to Increasing Silica Exposure?” Occupational and Environmental Medicine 67(10):649–50.</p>
+<p>Corn, Jacqueline. 1989. “Protective Legislation for Coal Miners, 1870-1900: Response to Safety and Health Hazards.” Pp. 67–82 in Dying for Work. Workers’ Safety and Health in Twentieth-Century America, edited by D. Rosner and G. Markowitz. Bloomington: Indiana University Press.</p>
+<p>Corn, Jacqueline. 1992. Response to Occupational Health Hazards. A Historical Perspective. New York: Van Nostrand Reinhold.</p>
+<p>Derickson, Alan. 1998. Black Lung: Anatomy of a Public Health Disaster. Ithaca: Cornell University Press.</p>
+<p>Elliott, James R., and Scott Frickel. 2015. “Urbanization as Socioenvironmental Succession: The Case of Hazardous Industrial Site Accumulation.” American Journal of Sociology 120(6):1736–77.</p>
+<p>Engels, Friedrich. 1993. The Condition of the Working Class in England. Oxford: Oxford University Press.</p>
+<p>Freudenburg, William R., and Susan K. Pastor. 1992. “Public Responses to Technological Risks: Toward a Sociological Perspective.” The Sociological Quarterly 33(3):389–412.</p>
+<p>Harris, Richard A., and Sidney M. Milkis. 1996. The Politics of Regulatory Change. A Tale of Two Agencies. 2nd ed. Oxford: Oxford University Press.</p>
+<p>Heifetz, Ruth. 1989. “Women, Lead, and Reproductive Hazards: Defining a New Risk.” Pp. 160–73 in Dying for Work. Workers’ Safety and Health in Twentieth-Century America, edited by D. Rosner and G. Markowitz. Bloomington: Indiana University Press.</p>
+<p>Jasanoff, Sheila. 1990. “American Exceptionalism and the Political Acknowledgment of Risk.” Daedalus 119(4):61–81.</p>
+<p>Levine, Marianne. 2016. “The Regulation That Took More than Four Decades to Finalize.” Politico.</p>
+<p>Malin, Stephanie A. 2015. The Price of Nuclear Power. Uranium Communities and Environmental Justice. New Brunswick: Rutgers University Press.</p>
+<p>Markowitz, Gerald, and David Rosner. 2013. Deceit and Denial. The Deadly Politics of Industrial Pollution. Berkeley: University of California Press.</p>
+<p>McCulloch, Jock, and Geoffrey Tweedale. 2008. Defending the Indefensible: The Global Asbestos Industry and Its Fight For Survival. Oxford: Oxford University Press.</p>
+<p>O’Connor, Ryan. 2015. The First Green Wave. Pollution Probe and the Origins of Environmental Activism in Ontario. Vancouver: University of British Columbia Press.</p>
+<p>Pauli, Benjamin J. 2019. Flint Fights Back. Environmental Justice and Democracy in the Flint Water Crisis. Cambridge, MA: MIT Press.</p>
+<p>Polanyi, Karl. 2001. The Great Transformation. The Political and Economic Origins of Our Time. Boston: Beacon Press.</p>
+Richter, Lauren, Alissa Cordner, and Phil Brown. 2021. “Producing Ignorance Through Regulatory Structure: The Case of Per- and Polyfluoroalkyl Substances (PFAS).” Sociological Perspectives 64(4):631–56.</p>
+<p>Rosner, David, and Gerald Markowitz. 2006. Deadly Dust. Silicosis and the On-Going Struggle to Protect Workers’ Health. Ann Arbord: University of Michigan Press.</p>
+<p>Sellers, Christopher. 1997. Hazards of the Job. From Industrial Disease to Environmental Health Science. Chapel Hill: University of North Carolina Press.</p>
+<p>Sellers, Christopher. 2003. “The Dearth of the Clinic: Lead, Air, and Agency in Twentieth-Century America.” Journal of the History of Medicine 58:255–91.</p>
+<p>Shriver, Thomas E., Sherry Cable, and Dennis Kennedy. 2008. “Mining for Conflict and Staking Claims: Contested Illness at the Tar Creek Superfund Site.” Sociological Inquiry 78(4):558–79.</p>
+<p>Taylor, Dorceta E. 2009. The Environment and the People in American Cities, 1600s-1900s. Disorder, Inequality, and Social Change. Durham et Londres: Duke University Press.</p>
+<p>Wilson, James Q., ed. 1980. The Politics of Regulation. New York: Basic Books.</p>
+</div>
+
+
