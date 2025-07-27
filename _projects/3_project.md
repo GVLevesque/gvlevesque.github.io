@@ -1,9 +1,8 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: Regulatory power over the mitigation of occupational health risks in Canada and the United States
+description:
+img: assets/img/silicadust.jp2
 importance: 3
 category: work
 ---
