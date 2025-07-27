@@ -1,81 +1,37 @@
 ---
 layout: page
-title: project 1
+title: Working papers
 description: with background image
 img: assets/img/12.jpg
 importance: 1
-category: work
+category:
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+# 1) _Network Interdependence and the Regulation of Toxic Substances_
+## Status : Revise and resubmit
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+## Abstract
+How do corporations influence their regulatory environment? Existing answers to this question overwhelmingly focus on outcomes. Yet, the structural pathways to these outcomes are often ill-defined. I ask how the relationship between corporate and state actors is structured and how it is patterned over time. I outline an approach to regulatory networks that emphasizes interdependence between corporate and state actors. Using Toxic Docs, a novel database of millions of previously classified industry documents, I build networks that span eight decades for the cases of lead and silica. I measure network interdependence and model its evolution at critical moments of regulatory trajectories. Analyses reveal that ties between corporate and state actors grow over time, that ties are the strongest with bureaucratic implementation bodies, and that regulatory changes are primarily a cause, not a consequence, of these ties. Corporate-state ties are thus not primarily characterized by punctuated interference, but by long-term interdependence.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+## Keywords
+regulations, social networks, interest groups, elites, power, risk
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+# 2) _The Appalachian Regional Commission and the Articulation of the Coal Consensus_
+## Status: Revise and resubmit
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+## Abstract
+This paper interrogates the formation of a national political consensus around coal in the United States. In the postwar era, the domestic future of coal was seriously challenged by the oil, gas and nuclear alternatives. In less than two decades, however, coal mining shifted from being one of multiple energy options to being a national political project tied to regional development and energy sovereignty. Why has this shift occurred? Using archival data, I argue that it was not primarily a response to market forces or corporate pressures but was rather furthered through the work of the Appalachian Regional Commission (ARC). In the years following its inception in 1965, the agency articulated the coal consensus as both a solution to the problem of Appalachian underdevelopment and to the looming energy crisis. In doing so, it naturalized common interests of regional, federal and corporate actors around this consequential project. This paper delineates a pathway through which bureaucracies can play a decisive role in the formation of political ideas.
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+## Keywords
+political articulation, bureaucracies, natural resources, regional development
 
-{% raw %}
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
+# 3) _The Relational Structure of Corporate Ignorance Production_
+## Status: In preparation
 
-{% endraw %}
+Extant research highlights a common pattern of involvement in science by corporate actors in an attempt to shape what we know about their products. Concurrently, however, scholars consider scientific knowledge to be a secondary force in regulatory processes, as political and economic considerations often prevail over evidence. In that context, do corporate actors enmeshed in controversy truly dedicate substantial resources to interfere in scientific production? Are pressures on the institutions of regulatory expertise sufficient to achieve corporate objectives? In this paper, I ask 1) What types of knowledge-producing organizations are subject to most engagement by corporate actors? and 2) How stable are ties between corporate actors and knowledge-producing organizations? I answer these questions with the case of lead in the United States. I produce longitudinal network data from the raw text of Toxic Docs, a database that comprises millions of previously classified corporate documents and spans over a century. Using a relational event modeling strategy, I find that corporate engagement with scientific organizations is consistently more likely than with other types of actors. In contrast, corporate engagement with regulatory expert organizations is less so. I also find that corporate engagement with scientific institutions is responsive to growing federal interest in the lead problem and anticipates future regulatory developments. These findings suggests that corporate involvement with scientific organizations is a major endeavor of corporate entities in the field of toxic substances, and that their engagement with scientists is best described not only as reactive but also as preemptive.
+
+## Keywords
+ignorance production, politics of science, corporate power, environmental health, longitudinal network analysis
