@@ -44,7 +44,7 @@ ninja.data = [{
               window.location.href = "/books/the_godfather.html";
             },},{id: "projects-working-papers",
           title: 'Working papers',
-          description: "with background image",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project.html";
             },},{id: "projects-project-2",
