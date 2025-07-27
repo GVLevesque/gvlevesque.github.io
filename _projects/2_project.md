@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Structures of Latency
-img: assets/img/helmetsdown2.jp2
+img: assets/img/helmetsdown2.jpg
 importance: 2
 ---
 
