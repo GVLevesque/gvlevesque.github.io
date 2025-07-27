@@ -10,7 +10,7 @@ related_publications: false
 
 ### 1) Network Interdependence and the Regulation of Toxic Substances
 
-<span style="color: indianred-color;"><b>Status</b></span> : Revise and resubmit
+<span style="color: $indianred-color;"><b>Status</b></span> : Revise and resubmit
 
 <div style="text-align: justify;">
 <b>Abstract</b><br>
