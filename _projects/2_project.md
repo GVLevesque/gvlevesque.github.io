@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Structures of Latency
+title: Structures of Latency. The Protraction of Regulatory Controversies over Toxic Substances
 img: assets/img/helmetsdown2.jpg
 importance: 2
 ---
