@@ -11,7 +11,7 @@ importance: 2
 
 <hr>
 
-<div style="text-align: right; text-align-last: justify; font-size: 0.8em; margin-bottom: 20px;">
+<div style="text-align: right; text-align-last: justify; font-size: 0.3em; margin-bottom: 20px;">
   <blockquote>
 There is still very limited awareness of the nature of the threat. This is an era of specialists, each of whom sees his own problem and is unaware of or intolerant of the larger frame into which it fits. It is also an era dominated by industry, in which the right to make a dollar at whatever cost is seldom challenged. When the public protests, confronted with some obvious evidence of damaging results of pesticide applications, it is fed little tranquilizing pills of half truth.<br>
 —Rachel Carson, Silent Spring, 1963.<sup>1</sup> 
@@ -44,7 +44,7 @@ There is still very limited awareness of the nature of the threat. This is an er
 
 ### References
 
-<div style="text-align: justify; text-indent: -30px;">
+<div style="text-align: justify;">
 <p>Allen, Barbara L. 2018. “Strongly Participatory Science and Knowledge Justice in an Environmentally Contested Region.” Science, Technology, & Human Values 43(6):947–71.</p>
 <p>Almberg, Kirsten S., Cara N. Halldin, David J. Blackley, A. Scott Laney, Eileen Storey, Cecile S. Rose, Leonard H. T. Go, and Robert A. Cohen. 2018. “Progressive Massive Fibrosis Resurgence Identified in U.S. Coal Miners Filing for Black Lung Benefits, 1970–2016.” Annals of the American Thoracic Society 15(12):1420–26.</p>
 <p>Anderson, Elisabeth. 2021. Agents of Reform. Child Labor and the Origins of the Welfare State. Princeton, NJ: Princeton University Press.</p>
