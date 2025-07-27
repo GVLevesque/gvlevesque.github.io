@@ -11,9 +11,9 @@ importance: 2
 
 <hr>
 
-<div style="text-align: right; text-align-last: left; font-size: 0.3em; margin-bottom: 20px;">
+<div style="text-align: right; text-align-last: left; font-size: 0.1em; margin-bottom: 20px;">
   <blockquote>
-    There is still very limited awareness of the nature of the threat. This is an era of specialists, each of whom sees his own problem and is unaware of or intolerant of the larger frame into which it fits. It is also an era dominated by industry, in which the right to make a dollar at whatever cost is seldom challenged. When the public protests, confronted with some obvious evidence of damaging results of pesticide applications, it is fed little tranquilizing pills of half truth.<br>
+There is still very limited awareness of the nature of the threat. This is an era of specialists, each of whom sees his own problem and is unaware of or intolerant of the larger frame into which it fits. It is also an era dominated by industry, in which the right to make a dollar at whatever cost is seldom challenged. When the public protests, confronted with some obvious evidence of damaging results of pesticide applications, it is fed little tranquilizing pills of half truth.<br>
     —Rachel Carson, Silent Spring, 1963.<sup>1</sup> 
   </blockquote>
 </div>
@@ -30,9 +30,9 @@ importance: 2
     <p>Why are such temporal gaps between our initial knowledge of these problems and regulatory action so frequent and significant? What allows for toxic substances controversies to be protracted? In this dissertation, I contribute to solving this puzzle through case studies from Canada and the United States. Based on extant scholarship, we should expect scientific and technical uncertainty, the production of ignorance by corporations, bureaucratic inertia and underwhelming state capacity, or weak social mobilization to play a role. These factors are indeed all important to understand the unfolding of controversies over toxic substances. But what is lacking in existing accounts is comparative insight that let us distinguish between those factors which are consistently found across cases and time and those, which I argue are more analytically valuable, that set up periods of stability, enable disruption, and make and break actor coalitions. In an effort to shed light on the latter, I focus on structural mechanisms—those that pertain to relationship patterns between actors and their underlying power structure—that inhibit regulatory change.</p>
     <p>I explore mechanisms that order patterns of corporate interference in science (Chapter 2), enable corporate power in the regulatory sphere (Chapter 3), promote invisibility of regulatory problems (Chapter 4), and sustain power asymmetries predicated on knowledge (Chapter 5). I show that the protraction of toxic substance controversies is the result of 1) preemptive corporate interference in the scientific process, 2) long-term interdependence between the regulator and the regulated, 3) structurally determined dynamics of risk invisibilization, and 4) the demobilizing effects of knowledge-based participatory processes. One overarching finding is that the crucial phase of regulatory controversies occurs not prior nor during the development of regulatory frameworks, but in its aftermath.</p> 
 </div>
+<br>
 
 ### Notes
-
 <div style="text-align: justify;">
 <sup>1</sup> Boston: Mariner Books, p 13.<br>
 <sup>2</sup> To the general public, toxic substances (or toxics) are synonym with chemicals, and often associated with carcinogenicity. In this dissertation, I refer to toxic substances in their broader accepted meaning. This includes chemical agents (e.g., metalloids like mercury, lead or arsenic; plastics like polychlorinated vinyl, PCBs; benzene, etc.), but also physical ones (e.g., various types of mineral and non-mineral dust, like asbestos, silica, cotton, or coal). These substances can be carcinogenic, but can also harm in other ways, such as poisoning (e.g., lead), respiratory diseases (e.g., coal, silica, cotton) or a combination of hazards. Although regulating chemical and physical toxics involve different types of expertise and sometimes require different enforcement mechanisms, they are usually regulated by the same agencies and the publics of those regulations face similar challenges.<br>
@@ -41,9 +41,9 @@ importance: 2
 <sup>5</sup> The American Conference of Governmental Industrial Hygienists (ACGIH) is a major proponent of industrial health standards with widely recognized expertise in the U.S. and elsewhere. Often, its published standards predate those of state agencies and are thus highly influential in periods of regulatory development. Contrarily to popular belief, the ACGIH is a private organization, and has been shown to be quite responsive to industrial interests (Castleman and Ziem 1994).<br>
 <sup>6</sup> “Lead poisoning in Milwaukee Public Schools: What to know and how to keep your kids safe,” Wisconsin Public Radio, April 24th 2025, https://www.wpr.org/news/lead-poisoning-milwaukee-public-schools-what-to-know-keep-children-safe.<br>
 </div>
+<br>
 
 ### References
-
 <div style="text-align: justify;">
 <p>Allen, Barbara L. 2018. “Strongly Participatory Science and Knowledge Justice in an Environmentally Contested Region.” Science, Technology, & Human Values 43(6):947–71.</p>
 <p>Almberg, Kirsten S., Cara N. Halldin, David J. Blackley, A. Scott Laney, Eileen Storey, Cecile S. Rose, Leonard H. T. Go, and Robert A. Cohen. 2018. “Progressive Massive Fibrosis Resurgence Identified in U.S. Coal Miners Filing for Black Lung Benefits, 1970–2016.” Annals of the American Thoracic Society 15(12):1420–26.</p>
