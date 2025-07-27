@@ -2,7 +2,7 @@
 layout: page
 title: Working papers
 description:
-img: assets/img/9.jpg
+img: assets/img/kirchner1936.jpg
 importance: 1
 category:
 related_publications: false
