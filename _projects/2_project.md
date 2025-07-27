@@ -5,7 +5,6 @@ description:
 img: assets/img/helmetsdown2.jp2
 importance: 2
 category:
-giscus_comments: false
 ---
 
 ### 1) Network Interdependence and the Regulation of Toxic Substances
