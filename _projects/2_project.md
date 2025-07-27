@@ -74,7 +74,7 @@ There is still very limited awareness of the nature of the threat. This is an er
 <p>O’Connor, Ryan. 2015. The First Green Wave. Pollution Probe and the Origins of Environmental Activism in Ontario. Vancouver: University of British Columbia Press.</p>
 <p>Pauli, Benjamin J. 2019. Flint Fights Back. Environmental Justice and Democracy in the Flint Water Crisis. Cambridge, MA: MIT Press.</p>
 <p>Polanyi, Karl. 2001. The Great Transformation. The Political and Economic Origins of Our Time. Boston: Beacon Press.</p>
-Richter, Lauren, Alissa Cordner, and Phil Brown. 2021. “Producing Ignorance Through Regulatory Structure: The Case of Per- and Polyfluoroalkyl Substances (PFAS).” Sociological Perspectives 64(4):631–56.</p>
+<p>Richter, Lauren, Alissa Cordner, and Phil Brown. 2021. “Producing Ignorance Through Regulatory Structure: The Case of Per- and Polyfluoroalkyl Substances (PFAS).” Sociological Perspectives 64(4):631–56.</p>
 <p>Rosner, David, and Gerald Markowitz. 2006. Deadly Dust. Silicosis and the On-Going Struggle to Protect Workers’ Health. Ann Arbord: University of Michigan Press.</p>
 <p>Sellers, Christopher. 1997. Hazards of the Job. From Industrial Disease to Environmental Health Science. Chapel Hill: University of North Carolina Press.</p>
 <p>Sellers, Christopher. 2003. “The Dearth of the Clinic: Lead, Air, and Agency in Twentieth-Century America.” Journal of the History of Medicine 58:255–91.</p>
