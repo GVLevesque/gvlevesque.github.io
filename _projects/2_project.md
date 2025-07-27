@@ -12,7 +12,7 @@ importance: 2
 <hr>
 
 <div style="text-align: right; text-align-last: left; margin-bottom: 20px;">
-  <blockquote style="font-size: 8px; margin: 0; padding: 0;">
+  <blockquote style="font-size: 14px; margin: 0; padding: 0; text-align: justify;">
     There is still very limited awareness of the nature of the threat. This is an era of specialists, each of whom sees his own problem and is unaware of or intolerant of the larger frame into which it fits. It is also an era dominated by industry, in which the right to make a dollar at whatever cost is seldom challenged. When the public protests, confronted with some obvious evidence of damaging results of pesticide applications, it is fed little tranquilizing pills of half truth.<br>
     —Rachel Carson, Silent Spring, 1963.<sup>1</sup>
   </blockquote>
