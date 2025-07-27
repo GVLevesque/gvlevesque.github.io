@@ -7,4 +7,4 @@ importance: 4
 category:
 ---
 
-More details soon! 
+More details soon!
