@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Working papers
-description: with background image
-img: assets/img/12.jpg
+description:
+img: assets/img/9.jpg
 importance: 1
 category:
 related_publications: true
