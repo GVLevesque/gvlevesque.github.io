@@ -52,8 +52,8 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project.html";
-            },},{id: "projects-regulatory-power-over-the-mitigation-of-occupational-health-risks-in-canada-and-the-united-states",
-          title: 'Regulatory power over the mitigation of occupational health risks in Canada and the...',
+            },},{id: "projects-regulatory-power-over-the-mitigation-of-occupational-health-risks",
+          title: 'Regulatory power over the mitigation of occupational health risks',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project.html";
