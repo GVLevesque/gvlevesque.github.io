@@ -1,13 +1,24 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: Structures of Latency: The Protraction of Regulatory Controversies over Toxic Substances
+description:
+img: assets/img/helmetsdown2.jp2
 importance: 2
-category: work
-giscus_comments: true
+category:
+giscus_comments: false
 ---
 
+### 1) Network Interdependence and the Regulation of Toxic Substances
+
+<b>Status</b> : Revise and resubmit
+
+<div style="text-align: justify;">
+<b>Abstract</b><br>
+How do corporations influence their regulatory environment? Existing answers to this question overwhelmingly focus on outcomes. Yet, the structural pathways to these outcomes are often ill-defined. I ask how the relationship between corporate and state actors is structured and how it is patterned over time. I outline an approach to regulatory networks that emphasizes interdependence between corporate and state actors. Using Toxic Docs, a novel database of millions of previously classified industry documents, I build networks that span eight decades for the cases of lead and silica. I measure network interdependence and model its evolution at critical moments of regulatory trajectories. Analyses reveal that ties between corporate and state actors grow over time, that ties are the strongest with bureaucratic implementation bodies, and that regulatory changes are primarily a cause, not a consequence, of these ties. Corporate-state ties are thus not primarily characterized by punctuated interference, but by long-term interdependence.
+</div><br>
+<b>Keywords</b>: regulations, social networks, interest groups, elites, power, risk<br>
+
+<hr>
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
 Make your photos 1/3, 2/3, or full width.
