@@ -9,6 +9,7 @@ related_publications: false
 ---
 
 ### 1) Network Interdependence and the Regulation of Toxic Substances
+
 <b>Status</b> : Revise and resubmit
 
 <div style="text-align: justify;">
@@ -19,6 +20,7 @@ How do corporations influence their regulatory environment? Existing answers to 
 <b>Keywords</b>: regulations, social networks, interest groups, elites, power, risk
 
 ### 2) The Appalachian Regional Commission and the Articulation of the Coal Consensus
+
 <b>Status</b>: Revise and resubmit
 
 <div style="text-align: justify;">
@@ -29,6 +31,7 @@ This paper interrogates the formation of a national political consensus around c
 <b>Keywords</b>: political articulation, bureaucracies, natural resources, regional development
 
 ### 3) The Relational Structure of Corporate Ignorance Production
+
 <b>Status</b>: In preparation
 
 <div style="text-align: justify;">
