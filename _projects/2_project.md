@@ -32,6 +32,7 @@ There is still very limited awareness of the nature of the threat. This is an er
 </div>
 
 ### Notes
+
 <div style="text-align: justify;">
 <sup>1</sup> Boston: Mariner Books, p 13.<br>
 <sup>2</sup> To the general public, toxic substances (or toxics) are synonym with chemicals, and often associated with carcinogenicity. In this dissertation, I refer to toxic substances in their broader accepted meaning. This includes chemical agents (e.g., metalloids like mercury, lead or arsenic; plastics like polychlorinated vinyl, PCBs; benzene, etc.), but also physical ones (e.g., various types of mineral and non-mineral dust, like asbestos, silica, cotton, or coal). These substances can be carcinogenic, but can also harm in other ways, such as poisoning (e.g., lead), respiratory diseases (e.g., coal, silica, cotton) or a combination of hazards. Although regulating chemical and physical toxics involve different types of expertise and sometimes require different enforcement mechanisms, they are usually regulated by the same agencies and the publics of those regulations face similar challenges.<br>
@@ -42,6 +43,7 @@ There is still very limited awareness of the nature of the threat. This is an er
 </div>
 
 ### References
+
 <div style="text-align: justify; text-indent: -30px;">
 <p>Allen, Barbara L. 2018. “Strongly Participatory Science and Knowledge Justice in an Environmentally Contested Region.” Science, Technology, & Human Values 43(6):947–71.</p>
 <p>Almberg, Kirsten S., Cara N. Halldin, David J. Blackley, A. Scott Laney, Eileen Storey, Cecile S. Rose, Leonard H. T. Go, and Robert A. Cohen. 2018. “Progressive Massive Fibrosis Resurgence Identified in U.S. Coal Miners Filing for Black Lung Benefits, 1970–2016.” Annals of the American Thoracic Society 15(12):1420–26.</p>
@@ -78,5 +80,3 @@ Richter, Lauren, Alissa Cordner, and Phil Brown. 2021. “Producing Ignorance Th
 <p>Taylor, Dorceta E. 2009. The Environment and the People in American Cities, 1600s-1900s. Disorder, Inequality, and Social Change. Durham et Londres: Duke University Press.</p>
 <p>Wilson, James Q., ed. 1980. The Politics of Regulation. New York: Basic Books.</p>
 </div>
-
-
