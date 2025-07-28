@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-publications",
           title: "publications",
-          description: "Here are my solo and co-authored journal publications. Feel free to reach out if you want a copy! Other writings, including manuscripts in progress, book chapters, reports, book reviews or scientific outreach pieces, are listed in my CV.",
+          description: "Here are my solo and co-authored journal publications. Feel free to reach out if you want a copy! Working papers are in the projects page. Other writings, including, book chapters, reports, book reviews or scientific outreach pieces, are listed on my CV.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
