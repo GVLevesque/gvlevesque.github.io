@@ -48,7 +48,7 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project.html";
             },},{id: "projects-structures-of-latency-the-protraction-of-regulatory-controversies-over-toxic-substances",
-          title: 'Structures of Latency. The Protraction of Regulatory Controversies over Toxic Substances',
+          title: 'Structures of latency. The protraction of regulatory controversies over toxic substances',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project.html";
@@ -57,8 +57,8 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project.html";
-            },},{id: "projects-project-4",
-          title: 'project 4',
+            },},{id: "projects-making-and-unmaking-a-toxic-world",
+          title: 'Making and unmaking a toxic world',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project.html";
