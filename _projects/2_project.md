@@ -81,4 +81,6 @@ importance: 2
 <p>Shriver, Thomas E., Sherry Cable, and Dennis Kennedy. 2008. “Mining for Conflict and Staking Claims: Contested Illness at the Tar Creek Superfund Site.” Sociological Inquiry 78(4):558–79.</p>
 <p>Taylor, Dorceta E. 2009. The Environment and the People in American Cities, 1600s-1900s. Disorder, Inequality, and Social Change. Durham et Londres: Duke University Press.</p>
 <p>Wilson, James Q., ed. 1980. The Politics of Regulation. New York: Basic Books.</p>
-</div>
+</div><br><br>
+
+Source of project image: Hutchins Library, Berea College Special Collections and Archives, Collection ID: BCA 0253, Box 69, Folder 5. Date unknown.
