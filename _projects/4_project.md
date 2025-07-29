@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 4
+title: Making and unmaking a toxic world
 description:
 img: assets/img/plasticspie.jpg
 importance: 4
