@@ -43,5 +43,3 @@ Extant research highlights a common pattern of involvement in science by corpora
 <b>Keywords</b>: ignorance production, politics of science, corporate power, environmental health, longitudinal network analysis<br><br>
 
 Source of project image: Ernst Ludwig Kirchner. 1936. <i>From the Apocalypse</i>, Retrieved from <a href="https://www.nga.gov/artworks/154387-apocalypse">National Gallery of Art</a>.
-
-
