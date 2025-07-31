@@ -7,8 +7,6 @@ importance: 3
 category:
 ---
 
-Title: Regulatory power over the mitigation of occupational health risks in Canada and the United States
-
 <b>This is an early look at a project I would like to get to in the next few years. It builds on part of my dissertation research (especially the <a href="https://www.theoryandsocialinquiry.org/article/id/17529/">following paper</a>). I am thinking of this work as a <i>book project</i>. </b>
 
 ### Background and question
