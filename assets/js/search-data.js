@@ -105,6 +105,13 @@ ninja.data = [{
           window.open("https://github.com/GVLevesque", "_blank");
         },
       },{
+        id: 'social-bluesky',
+        title: 'Bluesky',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://bsky.app/profile/gvlevesque.bsky.social", "_blank");
+        },
+      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
