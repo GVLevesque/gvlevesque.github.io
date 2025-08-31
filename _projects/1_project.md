@@ -43,6 +43,7 @@ Extant research highlights a common pattern of involvement in science by corpora
 <b>Keywords</b>: ignorance production, politics of science, corporate power, environmental health, longitudinal network analysis<br><br>
 
 ### 4) Expert bureaucracies have outsized influence on the contents of science
+
 With Peter McMahan (Associate Professor, Department of Sociology, McGill University)
 
 <b>Status</b>: In preparation
@@ -50,6 +51,5 @@ With Peter McMahan (Associate Professor, Department of Sociology, McGill Univers
 <div style="text-align: justify;">
 <b>Abstract</b><br>
 State institutions weigh on the contents of science through coercive mechanisms such as funding and regulatory enforcement. But do they also endogenously influence science? We assess two pathways, scientific curation and production, through which expert agencies directly contribute to the discourse in medical science. We find that the CDC and the ECDC influence science principally by hosting and curating journals, which the WHO’s impact is effected primarily through employment of researchers.These findings support the notion that the work of expert agencies contributes to the internal workings of science and offer insights into the institutional features that shape those contributions.
-
 
 Source of project image: Ernst Ludwig Kirchner. 1936. <i>From the Apocalypse</i>, Retrieved from <a href="https://www.nga.gov/artworks/154387-apocalypse">National Gallery of Art</a>.
