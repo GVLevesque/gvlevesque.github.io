@@ -43,7 +43,7 @@ This chapter examines the effects of consultation processes on knowledge-based m
 <b>Keywords</b>: Social movements, knowledge, environmental health, public consultations, demobilization
 <br><br>
 
-### 3) Expert bureaucracies have outsized influence on the contents of science
+### 4) Expert bureaucracies have outsized influence on the contents of science
 
 With Peter McMahan (Associate Professor, Department of Sociology, McGill University)
 
