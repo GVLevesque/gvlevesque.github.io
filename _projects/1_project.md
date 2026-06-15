@@ -8,41 +8,42 @@ category:
 related_publications: false
 ---
 
-### 1) Network Interdependence and the Regulation of Toxic Substances
+### 1) Corporate political power, regulatory change and network interdependence: A long-term view from the lead controversy in the United States, 1924-2003
 
 <b>Status</b> : Revise and resubmit
 
 <div style="text-align: justify;">
 <b>Abstract</b><br>
-How do corporations influence their regulatory environment? Existing answers to this question overwhelmingly focus on outcomes. Yet, the structural pathways to these outcomes are often ill-defined. I ask how the relationship between corporate and state actors is structured and how it is patterned over time. I outline an approach to regulatory networks that emphasizes interdependence between corporate and state actors. Using Toxic Docs, a novel database of millions of previously classified industry documents, I build networks that span eight decades for the cases of lead and silica. I measure network interdependence and model its evolution at critical moments of regulatory trajectories. Analyses reveal that ties between corporate and state actors grow over time, that ties are the strongest with bureaucratic implementation bodies, and that regulatory changes are primarily a cause, not a consequence, of these ties. Corporate-state ties are thus not primarily characterized by punctuated interference, but by long-term interdependence.
+How do corporations shape regulations? Existing answers to this question overwhelmingly focus on outcomes. Often, the pathways to these outcomes are left ill-defined. This article investigates how corporate-state relationships are structured and how they are patterned over time. I outline an approach to regulatory networks that emphasizes interdependence. Relying on networks that span eight decades for the case of lead from Toxic Docs, a large database of previously classified industry documents, I perform community structure time series analyses and separable exponential family random graph models (STERGMs). I find that corporate-state interdependence grows not during the development of regulatory frameworks but in subsequent periods of regulatory expansion. Moreover, while corporate actors expectedly engage with legislators and governmental expert bodies, their ties are just as strong with the bureaucracies responsible for routine regulatory implementation. This study contributes to better understanding institutional contexts that allow for economic elites to exercise political power.
 </div><br>
-<b>Keywords</b>: regulations, social networks, interest groups, elites, power, risk<br>
+<b>Keywords</b>: regulations, social networks, elites, power, interest groups, risk<br>
 
 <hr>
 
-### 2) The Appalachian Regional Commission and the Articulation of the Coal Consensus
+### 2) The Relational Structure of Corporate Ignorance Production 
 
 <b>Status</b>: Revise and resubmit
 
 <div style="text-align: justify;">
 <b>Abstract</b><br>
-This paper interrogates the formation of a national political consensus around coal in the United States. In the postwar era, the domestic future of coal was seriously challenged by the oil, gas and nuclear alternatives. In less than two decades, however, coal mining shifted from being one of multiple energy options to being a national political project tied to regional development and energy sovereignty. Why has this shift occurred? Using archival data, I argue that it was not primarily a response to market forces or corporate pressures but was rather furthered through the work of the Appalachian Regional Commission (ARC). In the years following its inception in 1965, the agency articulated the coal consensus as both a solution to the problem of Appalachian underdevelopment and to the looming energy crisis. In doing so, it naturalized common interests of regional, federal and corporate actors around this consequential project. This paper delineates a pathway through which bureaucracies can play a decisive role in the formation of political ideas.
+This study interrogates patterns of interaction through which corporate actors influence environmental knowledge production. I ask 1) What types of knowledge-producing organizations are subject to most engagement by corporate actors? and 2) How intensive are relationships between corporate actors and knowledge-producing organizations? I answer these questions with the landmark case of lead in the United States (1924-2003). I rely on longitudinal network data built from the raw text of Toxic Docs, a database that comprises millions of previously classified corporate documents over eight decades. Using relational event modeling, I find that corporate engagement with scientific organizations is consistently more likely than with other types of actors. In contrast, corporate engagement with regulatory expert organizations is less so. I also find that corporate engagement with scientific organizations is responsive to growing federal interest in the lead problem and anticipates regulatory developments. This suggests that corporate engagement with scientists is best described not simply as reactive but also as preemptive. 
 </div><br>
-<b>Keywords</b>: political articulation, bureaucracies, natural resources, regional development<br>
+<b>Keywords</b>: Corporate power, ignorance, industrial pollution, relational event modeling<br>
 
 <hr>
 
-### 3) The Relational Structure of Corporate Ignorance Production
+### 3) Crushing victories. Environmental health activism and the hazardous politics of expertise 
 
-<b>Status</b>: Under review
+<b>Status</b>: In preparation
 
 <div style="text-align: justify;">
 <b>Abstract</b><br>
-Extant research highlights a common pattern of involvement in science by corporate actors in an attempt to shape what we know about their products. Concurrently, however, scholars consider scientific knowledge to be a secondary force in regulatory processes, as political and economic considerations often prevail over evidence. In that context, do corporate actors enmeshed in controversy truly dedicate substantial resources to interfere in scientific production? Are pressures on the institutions of regulatory expertise sufficient to achieve corporate objectives? In this paper, I ask 1) What types of knowledge-producing organizations are subject to most engagement by corporate actors? and 2) How stable are ties between corporate actors and knowledge-producing organizations? I answer these questions with the case of lead in the United States. I produce longitudinal network data from the raw text of Toxic Docs, a database that comprises millions of previously classified corporate documents and spans over a century. Using a relational event modeling strategy, I find that corporate engagement with scientific organizations is consistently more likely than with other types of actors. In contrast, corporate engagement with regulatory expert organizations is less so. I also find that corporate engagement with scientific institutions is responsive to growing federal interest in the lead problem and anticipates future regulatory developments. These findings suggests that corporate involvement with scientific organizations is a major endeavor of corporate entities in the field of toxic substances, and that their engagement with scientists is best described not only as reactive but also as preemptive.
+This chapter examines the effects of consultation processes on knowledge-based mobilizations tackling environmental health problems. I focus on two such mobilizations in Québec: the Asbestos Victims Association of Québec’s and the multi-organization mobilization against industrial pollution in Rouyn Noranda. After making substantial gains in consultation processes, mobilization capacities of these groups should have increased. Based on extensive qualitative fieldwork, I interrogate what led to the opposite: why have regulatory gains disrupted rather than fueled mobilization? I propose a model of demobilization that emphasizes the consequences of epistemic cooptation, i.e., the process through which actors’ knowledge claims are borrowed or reused. Epistemic cooptation disrupts the initial leverage environmental health groups have against the state and corporate actors and neutralizes mobilization. After making substantial gains, mobilized groups need to undergo significant transformation of their aims and targets, reaccumulate new epistemic resources, and potentially renew their leadership. I show that while they undergo this transformation, mobilized groups become vulnerable to demobilization. This chapter contributes to understanding how expertise shapes mobilization outcomes. 
 </div><br>
-<b>Keywords</b>: ignorance production, politics of science, corporate power, environmental health, longitudinal network analysis<br><br>
+<b>Keywords</b>: Social movements, knowledge, environmental health, public consultations, demobilization
+<br><br>
 
-### 4) Expert bureaucracies have outsized influence on the contents of science
+### 3) Expert bureaucracies have outsized influence on the contents of science
 
 With Peter McMahan (Associate Professor, Department of Sociology, McGill University)
 
@@ -50,7 +51,7 @@ With Peter McMahan (Associate Professor, Department of Sociology, McGill Univers
 
 <div style="text-align: justify;">
 <b>Abstract</b><br>
-State institutions weigh on the contents of science through coercive mechanisms such as funding and regulatory enforcement. But do they also endogenously influence science? We assess two pathways, scientific curation and production, through which expert agencies directly contribute to the discourse in medical science. We find that the CDC and the ECDC influence science principally by hosting and curating journals, which the WHO’s impact is effected primarily through employment of researchers.These findings support the notion that the work of expert agencies contributes to the internal workings of science and offer insights into the institutional features that shape those contributions.
+State institutions weigh on the contents of science through coercive mechanisms such as fund- ing and regulatory enforcement. But do they also endogenously influence science? We assess two pathways, scientific curation and production, through which expert agencies directly contribute to discourse in medical science. We find that the CDC and the ECDC influence science principally by hosting and curating journals, which the WHO’s impact is effected primarily through employment of researchers. These findings support the notion that the work of expert agencies contributes to the internal workings of science and offer insights into the institutional features that shape those contributions.
 
 <br><br>
 Source of project image: Ernst Ludwig Kirchner. 1936. <i>From the Apocalypse</i>, Retrieved from <a href="https://www.nga.gov/artworks/154387-apocalypse">National Gallery of Art</a>.
