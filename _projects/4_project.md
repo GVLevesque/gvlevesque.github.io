@@ -25,9 +25,11 @@ category:
 
 ### Hypotheses
 
+<div style="text-align: justify;">
 <p>I expect ideas to spill over through time between organizations and between cases as well as organizations to strategically adapt to new policy environments. Specifically, I hypothesize 1) that corporate strategies around “old” toxics have provided the playbook for the defense of “new” toxics later on, 2) that early adopters of those strategies have been better able to sustain their business activities in a given industry and were more successful in jumping to new industries, and 3) that change in policies and regulations provide the impetus for the selection of corporate strategies and for growing cohesion among corporate actors.<p>
 </div>
 
 ### Significance
 
+<div style="text-align: justify;">
 <p>This project contributes to better understanding environment-society interactions in a long-term trajectory, which has drawn considerable interest in recent years. This will in turn provide historical context to some of our current exposures and shed light onto how environmental health problems develop. This project also narrows the gap between the questions sociologists ask about social-environmental change and questions scholars in related fields (e.g., environmental studies, public health) have traditionally asked. Recent scholarly discussions on this question have centered on political and economic obstacles faced in enacting environmental solutions. Using novel corporate data of unprecedented scale and quality, this project proposes a rigorous analysis of how those barriers are established, how they adapt in time to different policy and regulatory contexts, and how they are displaced.<p>
