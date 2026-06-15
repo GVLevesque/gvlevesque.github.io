@@ -7,7 +7,7 @@ importance: 3
 category:
 ---
 
-<b>This is an early look at a project I would like to get to in the next few years. It builds on part of my dissertation research (especially the <a href="https://www.theoryandsocialinquiry.org/article/id/17529/">following paper</a>). I am thinking of this work as a <i>book project</i>. </b>
+<b>This is an early look at a project I would like to get to in the next few years. It builds on part of my dissertation research (especially the <a href="https://www.theoryandsocialinquiry.org/article/id/17529/">following paper</a>). I am thinking of this work as a book project. </b>
 
 ### Background and question
 
