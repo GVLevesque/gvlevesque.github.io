@@ -20,7 +20,7 @@ How do corporations shape regulations? Existing answers to this question overwhe
 
 <hr>
 
-### 2) The Relational Structure of Corporate Ignorance Production 
+### 2) The Relational Structure of Corporate Ignorance Production
 
 <b>Status</b>: Revise and resubmit
 
@@ -32,7 +32,7 @@ This study interrogates patterns of interaction through which corporate actors i
 
 <hr>
 
-### 3) Crushing victories. Environmental health activism and the hazardous politics of expertise 
+### 3) Crushing victories. Environmental health activism and the hazardous politics of expertise
 
 <b>Status</b>: In preparation
 

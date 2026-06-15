@@ -12,7 +12,7 @@ profile:
 social: true
 ---
 
-Welcome to my webpage! My name is Gabriel and I am a Voss Postdoctoral Research Associate at the Institute at Brown for Environment & Society (IBES). 
+Welcome to my webpage! My name is Gabriel and I am a Voss Postdoctoral Research Associate at the Institute at Brown for Environment & Society (IBES).
 
 I study regulatory power, the politics of science and expertise, and the social construction of risk. I completed my PhD in Sociology at McGill University. In my dissertation, titled <i>Structures of Latency: The Protraction of Regulatory Controversies over Toxic Substances</i>, I investigate regulatory change and inertia with a substantive focus on environmental and occupational exposures to toxics in Canada and the U.S.
 
