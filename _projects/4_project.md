@@ -7,7 +7,7 @@ importance: 4
 category:
 ---
 
-<b>This is a summary of the project I am working on during my postdoctoral fellowship at the Institue at Brown for Environment & Society. </b>
+<b>This is a summary of the project I am working on during my postdoctoral fellowship at the Institute at Brown for Environment & Society. </b>
 
 ### Background and questions
 
