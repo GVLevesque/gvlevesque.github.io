@@ -20,7 +20,7 @@ My recent research has appeared in <i>Theory and Social Inquiry</i>, <i>Public U
 
 If and when I’m not doing research, you can find me in a café, at a museum, or on a basketball court.
 
-Happy to hear from you at <a href="mailto:gabriel.levesque2@mail.mcgill.ca">gabriel.levesque2@mail.mcgill.ca</a>.
+Happy to hear from you at <a href="mailto:gabriel_levesque@brown.edu">gabriel_levesque@brown.edu</a>.
 
 <br>
 <br>
