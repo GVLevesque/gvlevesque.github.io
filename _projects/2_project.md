@@ -6,7 +6,7 @@ importance: 2
 ---
 
 <div style="text-align: justify;">
-<b><i>Structures of Latency</i> is the dissertation I currently am working on at McGill University, under the joint supervision of Barry Eidlin and Axel van den Berg. Here is an overview of the project.</b>
+<b><i>Structures of Latency</i> is the dissertation I wrote during my time at McGill University, under the joint supervision of Barry Eidlin and Axel van den Berg. Here is an overview of the project.</b>
 </div>
 
 <hr>
