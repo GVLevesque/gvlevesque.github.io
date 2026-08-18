@@ -8,6 +8,8 @@ category:
 related_publications: false
 ---
 
+Here are a few of the papers I am currently working on. Feel free to <a href="mailto:gabriel_levesque@brown.edu">reach out</a> to get a draft!
+
 ### 1) Corporate political power, regulatory change and network interdependence: A long-term view from the lead controversy in the United States, 1924-2003
 
 <b>Status</b> : Revise and resubmit
