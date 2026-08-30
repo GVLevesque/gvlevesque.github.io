@@ -47,7 +47,7 @@ This book examines the effects of consultation processes on knowledge-based mobi
 
 <hr>
 
-### 4) Expert bureaucracies have outsized influence on the contents of science
+### 4) Expert agencies have outsized influence on the contents of science
 
 With Peter McMahan (Associate Professor, Department of Sociology, McGill University)
 
