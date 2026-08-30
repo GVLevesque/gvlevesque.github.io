@@ -24,11 +24,11 @@ How do corporations shape regulations? Existing answers to this question overwhe
 
 ### 2) The Relational Structure of Corporate Ignorance Production
 
-<b>Status</b>: Revise and resubmit
+<b>Status</b>: Resubmitted
 
 <div style="text-align: justify;">
 <b>Abstract</b><br>
-This study interrogates patterns of interaction through which corporate actors influence environmental knowledge production. I ask 1) What types of knowledge-producing organizations are subject to most engagement by corporate actors? and 2) How intensive are relationships between corporate actors and knowledge-producing organizations? I answer these questions with the landmark case of lead in the United States (1924-2003). I rely on longitudinal network data built from the raw text of Toxic Docs, a database that comprises millions of previously classified corporate documents over eight decades. Using relational event modeling, I find that corporate engagement with scientific organizations is consistently more likely than with other types of actors. In contrast, corporate engagement with regulatory expert organizations is less so. I also find that corporate engagement with scientific organizations is responsive to growing federal interest in the lead problem and anticipates regulatory developments. This suggests that corporate engagement with scientists is best described not simply as reactive but also as preemptive. 
+This study interrogates patterns of interaction through which corporate actors influence environmental knowledge production. I ask 1) How intensive are relationships between corporate actors and knowledge-producing organizations? 2) What types of knowledge-producing organizations are subject to most engagement by corporate actors? and 3) How do these patterns evolve over time? I answer these questions with the landmark case of lead in the United States (1924-2003). I rely on longitudinal network data built from the raw text of Toxic Docs, a database that comprises millions of previously classified corporate documents over eight decades. Using relational event modeling, I find that corporate engagement with scientific organizations is consistently more likely than with other types of actors. In contrast, corporate engagement with regulatory expert organizations is less so. I also find that corporate engagement with scientific organizations is responsive to growing federal interest in the lead problem and anticipates regulatory developments. This suggests that corporate engagement with scientists is best described not simply as reactive but also as preemptive. 
 </div><br>
 <b>Keywords</b>: Corporate power, ignorance, industrial pollution, relational event modeling<br>
 
@@ -51,11 +51,11 @@ This book examines the effects of consultation processes on knowledge-based mobi
 
 With Peter McMahan (Associate Professor, Department of Sociology, McGill University)
 
-<b>Status</b>: In preparation
+<b>Status</b>: Submitted
 
 <div style="text-align: justify;">
 <b>Abstract</b><br>
-State institutions weigh on the contents of science through coercive mechanisms such as fund- ing and regulatory enforcement. But do they also endogenously influence science? We assess two pathways, scientific curation and production, through which expert agencies directly contribute to discourse in medical science. We find that the CDC and the ECDC influence science principally by hosting and curating journals, which the WHO’s impact is effected primarily through employment of researchers. These findings support the notion that the work of expert agencies contributes to the internal workings of science and offer insights into the institutional features that shape those contributions.
+State institutions weigh on the contents of science through coercive mechanisms such as fund- ing and regulatory enforcement. But do they also endogenously influence science? In recent decades, states have increasingly taken interest in the internal workings of science, as evidenced by the prolif- eration of expert agencies that produce original research and seek to activate and organize scientific fields. Here, we assess two pathways, scientific curation and production, through which expert agen- cies directly contribute to discourse in medical science. We analyze how scientific fields converge towards expert agency materials with a corpus of 3 million articles published in the health sciences from 1990 to 2019. We find that the Centers for Disease Control and Prevention influence science principally by hosting and curating journals, while the World Health Organization’s impact is ef- fected primarily through employment of researchers. These findings support the notion that the work of expert agencies contributes to the internal workings of science and offer insights into the institutional features that shape those contributions.
 
 <br><br>
 Source of project image: Ernst Ludwig Kirchner. 1936. <i>From the Apocalypse</i>, Retrieved from <a href="https://www.nga.gov/artworks/154387-apocalypse">National Gallery of Art</a>.
