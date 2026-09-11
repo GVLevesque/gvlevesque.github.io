@@ -24,7 +24,7 @@ How do corporations shape regulations? Existing answers to this question overwhe
 
 ### 2) The Relational Structure of Corporate Ignorance Production
 
-<b>Status</b>: Resubmitted
+<b>Status</b>: Forthcoming at Social Networks
 
 <div style="text-align: justify;">
 <b>Abstract</b><br>
